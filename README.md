@@ -1,4 +1,4 @@
-![MasterHead](https://i.imgur.com/dp6ogDB.jpeg)
+![MasterHead]([https://i.imgur.com/dp6ogDB.jpeg](https://imgur.com/a/SRvcsGA))
 <h1 align="center">👋 E aí? Eu sou o Guilherme</h1>
 <h3 align="center">Sou estudante de Engenharia de Software e Desenvolvedor Backend!</h3>
 
