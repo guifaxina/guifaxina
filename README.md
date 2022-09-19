@@ -18,7 +18,7 @@
                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="40"/>
                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" alt="mongodb" width="50" height="40"/>
                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="50" height="40"/>
-                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="50" height="40"/>
+                 <img src="https://skillicons.dev/icons?i=express" alt="express" width="50" height="40"/>
                  </p>
 <hr />
 
