@@ -24,7 +24,3 @@
 
 <div text-align='center'>
 <span><img align="left" width='365px' height='165px' src="https://github-readme-stats.vercel.app/api/top-langs?username=guifaxina&show_icons=true&locale=en&layout=compact" alt="guifaxina" /></span>
-
-
-<p><img align="center" height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=guifaxina&" alt="guifaxina" /></p>
-</div>
