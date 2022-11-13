@@ -1,10 +1,10 @@
 ![MasterHead](https://i.imgur.com/WDtGR7z.png)
 <h1 align="center">👋 Hi there, I am Guiherme!</h1>
-<h3 align="center">I am a Software Engineer undergrad and Backend Developer!</h3>
+<h3 align="center">I am a Developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guifaxina&label=Profile%20views&color=0e75b6&style=flat" alt="guifaxina" /> </p>
 
-- 📒 Right now i'm learning **NodeJS, PostgreSQL and React!**
+- 📒 Right now i'm learning **NodeJS, Testing and React!**
 <hr />
 
 <h3 align="left">Connect with me:</h3>
