@@ -1,10 +1,10 @@
-![MasterHead](https://i.imgur.com/WDtGR7z.png)
+![MasterHead](https://i.imgur.com/9I5f146.png)
 <h1 align="center">👋 Hi there, I am Guiherme!</h1>
-<h3 align="center">I am a Developer!</h3>
+<h3 align="center">I am a Backend Developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guifaxina&label=Profile%20views&color=0e75b6&style=flat" alt="guifaxina" /> </p>
 
-- 📒 Right now i'm learning **NodeJS, Testing and React!**
+- 📒 I'm focusing my efforts on understanding **NodeJS!**
 <hr />
 
 <h3 align="left">Connect with me:</h3>
