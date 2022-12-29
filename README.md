@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guifaxina&label=Profile%20views&color=0e75b6&style=flat" alt="guifaxina" /> </p>
 
-- 📒 I'm focusing my efforts on understanding **NodeJS!**
+- 📒 I'm currently learning about **Jest, OOP and TDD**
 <hr />
 
 <h3 align="left">Connect with me:</h3>
