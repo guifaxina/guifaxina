@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=guifaxina&label=Profile%20views&color=0e75b6&style=flat" alt="guifaxina" /> </p>
 
 <hr />
-<p> <strong> Right now i'm learning AWS and cloud infrastructure :-) </strong> </p>
+<p> <strong> 🔭 Right now i'm learning AWS and cloud infrastructure :-) </strong> </p>
 <hr />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -18,7 +18,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="50" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="50" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="50" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="50" height="40"/>
 </p>
 <hr />
 
