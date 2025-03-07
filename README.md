@@ -1,10 +1,10 @@
 ![MasterHead](https://i.imgur.com/9I5f146.png)
 <h1 align="center">👋 Hi there, I am Guiherme!</h1>
-<h3 align="center">I'm a Backend Developer with huge interest in Cloud and Computer Networks.</h3>
+<h3 align="center">I'm a Fullstack Developer with huge interest in Cloud and Computer Networks.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=guifaxina&label=Profile%20views&color=0e75b6&style=flat" alt="guifaxina" /> </p>
 
 <hr />
-<p> <strong> 🔭 Right now i'm learning AWS and cloud architecture :-) </strong> </p>
+<p> <strong> 🔭 I'm always learning :-) </strong> </p>
 <hr />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
